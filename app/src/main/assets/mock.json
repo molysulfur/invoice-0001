@@ -1,0 +1,41 @@
+{
+  "bill_to": {
+    "icon": "https://firebasestorage.googleapis.com/v0/b/intern-demo-92de1.appspot.com/o/startup.png?alt=media&token=702fdcb7-4741-4eec-bf5a-1cebec039010",
+    "company_name": "Septillion Incorporation",
+    "address": "13 Oxford Ave, Virginia"
+  },
+  "invoice_items": [
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/intern-demo-92de1.appspot.com/o/box.png?alt=media&token=a0870f75-96f5-447f-9785-c1e9253e7b92",
+      "title":"UX Improvement",
+      "desc":"$5000",
+      "total_price":"6150.00",
+      "tax":"23"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/intern-demo-92de1.appspot.com/o/invoice.png?alt=media&token=0df16dda-2c1c-4f3e-90fd-7873dd34be70",
+      "title":"Starbucks Coffee",
+      "desc":"23.08.2017",
+      "total_price":"8.00",
+      "tax":"0"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/intern-demo-92de1.appspot.com/o/invoice.png?alt=media&token=0df16dda-2c1c-4f3e-90fd-7873dd34be70",
+      "title":"Board Game",
+      "desc":"$4000",
+      "total_price":"4280",
+      "tax":"7"
+    },
+    {
+      "icon": "https://firebasestorage.googleapis.com/v0/b/intern-demo-92de1.appspot.com/o/destination.png?alt=media&token=a0d920cb-892f-4b77-bd45-2f8ef1ee6eb1",
+      "title":"Mileage",
+      "desc":"10km for $5",
+      "total_price":"61.50",
+      "tax":"23"
+    }
+  ],
+  "total": {
+    "price":"6219.50",
+    "due_date":"1506143264"
+  }
+}
